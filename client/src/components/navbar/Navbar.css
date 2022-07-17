@@ -18,6 +18,11 @@
   font-weight: 500;
 }
 
+.logoLink{
+  color: #fff;
+  text-decoration: none;
+}
+
 .navButton{
   margin-left: 20px;
   border: none;
